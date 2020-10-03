@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: #00ADEE
+}
+ul li {
+    margin: 0;
+    list-style: none;
+}
+h1, h2 {
+    margin: 0;
+}
+@media (min-width: 720px) {
+    .container {
+        max-width: 1114px;
+        margin: auto;
+    }
+}
