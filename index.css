@@ -9,8 +9,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.first_header {
-    
+.first_header .container{
+    display: flex;
+    flex-direction: row;
 }
 h1 {
     padding-top: 20px;
